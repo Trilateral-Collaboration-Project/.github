@@ -1,4 +1,4 @@
-# .github
+# Trilateral Collaboration Project
 
 Thrust Leaders
 
